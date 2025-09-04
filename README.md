@@ -65,23 +65,6 @@ bun i
 bun start
 ```
 
-#### pnpm
-
-If you are using pnpm, run the following commands:
-
-```bash
-pnpm i
-pnpm start
-```
-
-#### npm
-
-If you are using npm, run the following commands:
-
-```bash
-npm i
-npm run start
-```
 
 ### Updating
 

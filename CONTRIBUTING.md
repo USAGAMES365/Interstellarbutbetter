@@ -16,7 +16,7 @@ Thank you for your interest in contributing to this repository! To ensure a smoo
 
    - Before finalizing changes, run the following command in the terminal for consistent code formatting:
      ```bash
-     npm run format
+     bun run format
      ```
 
 4. **Minifying JSON**
