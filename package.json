@@ -1,5 +1,5 @@
 {
-  "name": "interstellar",
+  "name": "vite-starter",
   "version": "5.2.5",
   "type": "module",
   "engines": {
@@ -15,18 +15,12 @@
   "author": "InterstellarNetwork",
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "@nebula-services/bare-server-node": "^2.0.4",
-    "chalk": "^5.4.1",
-    "cookie-parser": "^1.4.7",
-    "cors": "^2.8.5",
     "dotenv": "^17.2.0",
     "express": "^4.21.2",
     "express-basic-auth": "^1.2.1",
-    "mime": "^4.0.7",
-    "node-fetch": "^3.3.2"
+    "preview": "vite preview"
   },
   "devDependencies": {
-    "@biomejs/biome": "2.1.1"
-  },
+    "vite": "^5.4.2"
   "packageManager": "bun@1.0.0"
 }
